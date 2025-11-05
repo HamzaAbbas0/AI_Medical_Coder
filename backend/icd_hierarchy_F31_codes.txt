@@ -1,0 +1,34 @@
+F31: Bipolar disorder
+    F31.0: Bipolar disorder, current episode hypomanic
+    F31.1: Bipolar disorder, current episode manic without psychotic features
+        F31.10: …… unspecified
+        F31.11: …… mild
+        F31.12: …… moderate
+        F31.13: …… severe
+    F31.2: Bipolar disorder, current episode manic severe with psychotic features
+    F31.3: Bipolar disorder, current episode depressed, mild or moderate severity
+        F31.30: …… unspecified
+        F31.31: Bipolar disorder, current episode depressed, mild
+        F31.32: Bipolar disorder, current episode depressed, moderate
+    F31.4: Bipolar disorder, current episode depressed, severe, without psychotic features
+    F31.5: Bipolar disorder, current episode depressed, severe, with psychotic features
+    F31.6: Bipolar disorder, current episode mixed
+        F31.60: …… unspecified
+        F31.61: …… mild
+        F31.62: …… moderate
+        F31.63: …… severe, without psychotic features
+        F31.64: …… severe, with psychotic features
+    F31.7: Bipolar disorder, currently in remission
+        F31.70: …… most recent episode unspecified
+        F31.71: Bipolar disorder, in partial remission, most recent episode hypomanic
+        F31.72: Bipolar disorder, in full remission, most recent episode hypomanic
+        F31.73: Bipolar disorder, in partial remission, most recent episode manic
+        F31.74: Bipolar disorder, in full remission, most recent episode manic
+        F31.75: Bipolar disorder, in partial remission, most recent episode depressed
+        F31.76: Bipolar disorder, in full remission, most recent episode depressed
+        F31.77: Bipolar disorder, in partial remission, most recent episode mixed
+        F31.78: Bipolar disorder, in full remission, most recent episode mixed
+    F31.8: Other bipolar disorders
+        F31.81: Bipolar II disorder
+        F31.89: Other bipolar disorder
+    F31.9: Bipolar disorder, unspecified

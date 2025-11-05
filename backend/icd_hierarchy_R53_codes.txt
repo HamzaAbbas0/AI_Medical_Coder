@@ -1,0 +1,8 @@
+R53: Malaise and fatigue
+    R53.0: Neoplastic (malignant) related fatigue
+    R53.1: Weakness
+    R53.2: Functional quadriplegia
+    R53.8: Other malaise and fatigue
+        R53.81: Other malaise
+        R53.82: Chronic fatigue, unspecified
+        R53.83: Other fatigue

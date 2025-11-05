@@ -1,0 +1,21 @@
+R45: Symptoms and signs involving emotional state
+    R45.0: Nervousness
+    R45.1: Restlessness and agitation
+    R45.2: Unhappiness
+    R45.3: Demoralization and apathy
+    R45.4: Irritability and anger
+    R45.5: Hostility
+    R45.6: Violent behavior
+    R45.7: State of emotional shock and stress, unspecified
+    R45.8: Other symptoms and signs involving emotional state
+        R45.81: Low self-esteem
+        R45.82: Worries
+        R45.83: Excessive crying of child, adolescent or adult
+        R45.84: Anhedonia
+        R45.85: Homicidal and suicidal ideations
+            R45.850: Homicidal ideations
+            R45.851: Suicidal ideations
+        R45.86: Emotional lability
+        R45.87: Impulsiveness
+        R45.88: Nonsuicidal self-harm
+        R45.89: Other symptoms and signs involving emotional state

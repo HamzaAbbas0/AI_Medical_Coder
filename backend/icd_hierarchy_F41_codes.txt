@@ -1,0 +1,6 @@
+F41: Other anxiety disorders
+    F41.0: Panic disorder [episodic paroxysmal anxiety]
+    F41.1: Generalized anxiety disorder
+    F41.3: Other mixed anxiety disorders
+    F41.8: Other specified anxiety disorders
+    F41.9: Anxiety disorder, unspecified

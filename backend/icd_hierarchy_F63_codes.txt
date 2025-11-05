@@ -1,0 +1,9 @@
+F63: Impulse disorders
+    F63.0: Pathological gambling
+    F63.1: Pyromania
+    F63.2: Kleptomania
+    F63.3: Trichotillomania
+    F63.8: Other impulse disorders
+        F63.81: Intermittent explosive disorder
+        F63.89: Other impulse disorders
+    F63.9: Impulse disorder, unspecified

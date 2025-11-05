@@ -1,0 +1,53 @@
+G47: Sleep disorders
+    G47.0: Insomnia
+        G47.00: …… unspecified
+        G47.01: …… due to medical condition
+        G47.09: Other insomnia
+    G47.1: Hypersomnia
+        G47.10: …… unspecified
+        G47.11: Idiopathic hypersomnia with long sleep time
+        G47.12: Idiopathic hypersomnia without long sleep time
+        G47.13: Recurrent hypersomnia
+        G47.14: …… due to medical condition
+        G47.19: Other hypersomnia
+    G47.2: Circadian rhythm sleep disorders
+        G47.20: Circadian rhythm sleep disorder, unspecified type
+        G47.21: Circadian rhythm sleep disorder, delayed sleep phase type
+        G47.22: Circadian rhythm sleep disorder, advanced sleep phase type
+        G47.23: Circadian rhythm sleep disorder, irregular sleep wake type
+        G47.24: Circadian rhythm sleep disorder, free running type
+        G47.25: Circadian rhythm sleep disorder, jet lag type
+        G47.26: Circadian rhythm sleep disorder, shift work type
+        G47.27: Circadian rhythm sleep disorder in conditions classified elsewhere
+        G47.29: Other circadian rhythm sleep disorder
+    G47.3: Sleep apnea
+        G47.30: …… unspecified
+        G47.31: Primary central sleep apnea
+        G47.32: High altitude periodic breathing
+        G47.33: Obstructive sleep apnea (adult) (pediatric)
+        G47.34: Idiopathic sleep related nonobstructive alveolar hypoventilation
+        G47.35: Congenital central alveolar hypoventilation syndrome
+        G47.36: Sleep related hypoventilation in conditions classified elsewhere
+        G47.37: Central sleep apnea in conditions classified elsewhere
+        G47.39: Other sleep apnea
+    G47.4: Narcolepsy and cataplexy
+        G47.41: Narcolepsy
+            G47.411: …… with cataplexy
+            G47.419: …… without cataplexy
+        G47.42: Narcolepsy in conditions classified elsewhere
+            G47.421: …… with cataplexy
+            G47.429: …… without cataplexy
+    G47.5: Parasomnia
+        G47.50: …… unspecified
+        G47.51: Confusional arousals
+        G47.52: REM sleep behavior disorder
+        G47.53: Recurrent isolated sleep paralysis
+        G47.54: …… in conditions classified elsewhere
+        G47.59: Other parasomnia
+    G47.6: Sleep related movement disorders
+        G47.61: Periodic limb movement disorder
+        G47.62: Sleep related leg cramps
+        G47.63: Sleep related bruxism
+        G47.69: Other sleep related movement disorders
+    G47.8: Other sleep disorders
+    G47.9: Sleep disorder, unspecified

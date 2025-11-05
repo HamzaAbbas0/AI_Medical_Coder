@@ -1,0 +1,177 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  /* margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; */
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+#hamza_bug_fixes
+
+.login-page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f7fa;
+  overflow: hidden;
+  padding-top: 60px; /* Adjust depending on header height */
+}
+
+.background-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  opacity: 0.9;
+}
+
+.login-box {
+  position: relative;
+  z-index: 1;
+  background-color: white;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(20px);
+}
+
+.card {
+  padding: 2em;
+}
+
+#app {
+  /* max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center; */
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+/*Css STARTED*/
+.form-label {
+  font-weight: 500;
+}
+.input-box {
+  border: 1px solid #ced4da;
+  border-radius: 30px;
+  overflow: hidden;
+}
+.input-box:focus-within {
+  border-color: rgba(10, 134, 136, 0.3);
+  box-shadow: 0 0 0 3px rgba(10, 133, 136, 0.2);
+}
+.input-group-text,
+.form-control {
+  border: none !important;
+  box-shadow: none !important;
+}
+input::placeholder {
+  color: #b0b0b0;
+  opacity: 1;
+}
+.btn-teal {
+  background-color: #0a8588;
+  color: white;
+  font-weight: 500;
+  border-radius: 50px;
+  padding: 10px 0;
+}
+.btn-teal:hover {
+  background-color: #086869;
+  color: white;
+}
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6c757d;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.divider::before,
+.divider::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid #ddd;
+  margin: 0 0.75rem;
+}
+.button-login {
+  color: rgba(33, 37, 41, 0.75);
+  font-weight: 500;
+}
+.button-login:hover {
+  background-color: rgb(255, 255, 255) !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+  color: #6c757d;
+}
+.footer-main {
+  position: relative;
+  z-index: 2;
+}
+

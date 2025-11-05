@@ -1,0 +1,20 @@
+G25: Other extrapyramidal and movement disorders
+    G25.0: Essential tremor
+    G25.1: Drug-induced tremor
+    G25.2: Other specified forms of tremor
+    G25.3: Myoclonus
+    G25.4: Drug-induced chorea
+    G25.5: Other chorea
+    G25.6: Drug induced tics and other tics of organic origin
+        G25.61: Drug induced tics
+        G25.69: Other tics of organic origin
+    G25.7: Other and unspecified drug induced movement disorders
+        G25.70: Drug induced movement disorder, unspecified
+        G25.71: Drug induced akathisia
+        G25.79: Other drug induced movement disorders
+    G25.8: Other specified extrapyramidal and movement disorders
+        G25.81: Restless legs syndrome
+        G25.82: Stiff-man syndrome
+        G25.83: Benign shuddering attacks
+        G25.89: Other specified extrapyramidal and movement disorders
+    G25.9: Extrapyramidal and movement disorder, unspecified

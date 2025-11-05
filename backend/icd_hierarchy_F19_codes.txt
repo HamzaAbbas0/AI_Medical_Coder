@@ -1,0 +1,79 @@
+F19: Other psychoactive substance related disorders
+    F19.1: Other psychoactive substance abuse
+        F19.10: …… uncomplicated
+        F19.11: …… in remission
+        F19.12: Other psychoactive substance abuse with intoxication
+            F19.120: …… uncomplicated
+            F19.121: …… delirium
+            F19.122: …… with perceptual disturbances
+            F19.129: …… unspecified
+        F19.13: Other psychoactive substance abuse with withdrawal
+            F19.130: …… uncomplicated
+            F19.131: …… delirium
+            F19.132: …… with perceptual disturbance
+            F19.139: …… unspecified
+        F19.14: …… with psychoactive substance-induced mood disorder
+        F19.15: Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder
+            F19.150: …… with delusions
+            F19.151: …… with hallucinations
+            F19.159: …… unspecified
+        F19.16: …… with psychoactive substance-induced persisting amnestic disorder
+        F19.17: …… with psychoactive substance-induced persisting dementia
+        F19.18: Other psychoactive substance abuse with other psychoactive substance-induced disorders
+            F19.180: Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder
+            F19.181: Other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction
+            F19.182: Other psychoactive substance abuse with psychoactive substance-induced sleep disorder
+            F19.188: Other psychoactive substance abuse with other psychoactive substance-induced disorder
+        F19.19: …… with unspecified psychoactive substance-induced disorder
+    F19.2: Other psychoactive substance dependence
+        F19.20: …… uncomplicated
+        F19.21: …… in remission
+        F19.22: Other psychoactive substance dependence with intoxication
+            F19.220: …… uncomplicated
+            F19.221: …… delirium
+            F19.222: …… with perceptual disturbance
+            F19.229: …… unspecified
+        F19.23: Other psychoactive substance dependence with withdrawal
+            F19.230: …… uncomplicated
+            F19.231: …… delirium
+            F19.232: …… with perceptual disturbance
+            F19.239: …… unspecified
+        F19.24: …… with psychoactive substance-induced mood disorder
+        F19.25: Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder
+            F19.250: …… with delusions
+            F19.251: …… with hallucinations
+            F19.259: …… unspecified
+        F19.26: …… with psychoactive substance-induced persisting amnestic disorder
+        F19.27: …… with psychoactive substance-induced persisting dementia
+        F19.28: Other psychoactive substance dependence with other psychoactive substance-induced disorders
+            F19.280: Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder
+            F19.281: Other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction
+            F19.282: Other psychoactive substance dependence with psychoactive substance-induced sleep disorder
+            F19.288: Other psychoactive substance dependence with other psychoactive substance-induced disorder
+        F19.29: …… with unspecified psychoactive substance-induced disorder
+    F19.9: Other psychoactive substance use, unspecified
+        F19.90: …… uncomplicated
+        F19.91: …… in remission
+        F19.92: Other psychoactive substance use, unspecified with intoxication
+            F19.920: …… uncomplicated
+            F19.921: …… with delirium
+            F19.922: …… with perceptual disturbance
+            F19.929: …… unspecified
+        F19.93: Other psychoactive substance use, unspecified with withdrawal
+            F19.930: …… uncomplicated
+            F19.931: …… delirium
+            F19.932: …… with perceptual disturbance
+            F19.939: …… unspecified
+        F19.94: …… with psychoactive substance-induced mood disorder
+        F19.95: Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder
+            F19.950: …… with delusions
+            F19.951: …… with hallucinations
+            F19.959: …… unspecified
+        F19.96: …… with psychoactive substance-induced persisting amnestic disorder
+        F19.97: …… with psychoactive substance-induced persisting dementia
+        F19.98: Other psychoactive substance use, unspecified with other psychoactive substance-induced disorders
+            F19.980: Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder
+            F19.981: Other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction
+            F19.982: Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder
+            F19.988: Other psychoactive substance use, unspecified with other psychoactive substance-induced disorder
+        F19.99: …… with unspecified psychoactive substance-induced disorder

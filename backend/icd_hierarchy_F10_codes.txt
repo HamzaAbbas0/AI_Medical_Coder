@@ -1,0 +1,74 @@
+F10: Alcohol related disorders
+    F10.1: Alcohol abuse
+        F10.10: …… uncomplicated
+        F10.11: …… in remission
+        F10.12: Alcohol abuse with intoxication
+            F10.120: …… uncomplicated
+            F10.121: …… delirium
+            F10.129: …… unspecified
+        F10.13: Alcohol abuse, with withdrawal
+            F10.130: Alcohol abuse with withdrawal, uncomplicated
+            F10.131: Alcohol abuse with withdrawal delirium
+            F10.132: Alcohol abuse with withdrawal with perceptual disturbance
+            F10.139: Alcohol abuse with withdrawal, unspecified
+        F10.14: …… with alcohol-induced mood disorder
+        F10.15: Alcohol abuse with alcohol-induced psychotic disorder
+            F10.150: …… with delusions
+            F10.151: …… with hallucinations
+            F10.159: …… unspecified
+        F10.18: Alcohol abuse with other alcohol-induced disorders
+            F10.180: Alcohol abuse with alcohol-induced anxiety disorder
+            F10.181: Alcohol abuse with alcohol-induced sexual dysfunction
+            F10.182: Alcohol abuse with alcohol-induced sleep disorder
+            F10.188: Alcohol abuse with other alcohol-induced disorder
+        F10.19: …… with unspecified alcohol-induced disorder
+    F10.2: Alcohol dependence
+        F10.20: …… uncomplicated
+        F10.21: …… in remission
+        F10.22: Alcohol dependence with intoxication
+            F10.220: …… uncomplicated
+            F10.221: …… delirium
+            F10.229: …… unspecified
+        F10.23: Alcohol dependence with withdrawal
+            F10.230: …… uncomplicated
+            F10.231: …… delirium
+            F10.232: …… with perceptual disturbance
+            F10.239: …… unspecified
+        F10.24: …… with alcohol-induced mood disorder
+        F10.25: Alcohol dependence with alcohol-induced psychotic disorder
+            F10.250: …… with delusions
+            F10.251: …… with hallucinations
+            F10.259: …… unspecified
+        F10.26: …… with alcohol-induced persisting amnestic disorder
+        F10.27: …… with alcohol-induced persisting dementia
+        F10.28: Alcohol dependence with other alcohol-induced disorders
+            F10.280: Alcohol dependence with alcohol-induced anxiety disorder
+            F10.281: Alcohol dependence with alcohol-induced sexual dysfunction
+            F10.282: Alcohol dependence with alcohol-induced sleep disorder
+            F10.288: Alcohol dependence with other alcohol-induced disorder
+        F10.29: …… with unspecified alcohol-induced disorder
+    F10.9: Alcohol use, unspecified
+        F10.90: …… uncomplicated
+        F10.91: …… in remission
+        F10.92: Alcohol use, unspecified with intoxication
+            F10.920: …… uncomplicated
+            F10.921: …… delirium
+            F10.929: …… unspecified
+        F10.93: Alcohol use, unspecified with withdrawal
+            F10.930: …… uncomplicated
+            F10.931: …… delirium
+            F10.932: …… with perceptual disturbance
+            F10.939: …… unspecified
+        F10.94: …… with alcohol-induced mood disorder
+        F10.95: Alcohol use, unspecified with alcohol-induced psychotic disorder
+            F10.950: …… with delusions
+            F10.951: …… with hallucinations
+            F10.959: …… unspecified
+        F10.96: …… with alcohol-induced persisting amnestic disorder
+        F10.97: …… with alcohol-induced persisting dementia
+        F10.98: Alcohol use, unspecified with other alcohol-induced disorders
+            F10.980: Alcohol use, unspecified with alcohol-induced anxiety disorder
+            F10.981: Alcohol use, unspecified with alcohol-induced sexual dysfunction
+            F10.982: Alcohol use, unspecified with alcohol-induced sleep disorder
+            F10.988: Alcohol use, unspecified with other alcohol-induced disorder
+        F10.99: …… with unspecified alcohol-induced disorder

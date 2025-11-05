@@ -1,0 +1,13 @@
+F45: Somatoform disorders
+    F45.0: Somatization disorder
+    F45.1: Undifferentiated somatoform disorder
+    F45.2: Hypochondriacal disorders
+        F45.20: Hypochondriacal disorder, unspecified
+        F45.21: Hypochondriasis
+        F45.22: Body dysmorphic disorder
+        F45.29: Other hypochondriacal disorders
+    F45.4: Pain disorders related to psychological facto...
+        F45.41: Pain disorder exclusively related to psycholo...
+        F45.42: Pain disorder with related psychological fact...
+    F45.8: Other somatoform disorders
+    F45.9: Somatoform disorder, unspecified

@@ -1,0 +1,28 @@
+access_token(aaish): eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzYxMjAyNzY1LCJpYXQiOjE3NjExOTkxNjUsImp0aSI6ImEzMGZmYzJlNTMyOTQxOTY5OWMzOTdiZjM5MjU5MWI5IiwidXNlcl9pZCI6IjIifQ.uRR9xs4xG56aGFErGPNLLeYWc7ECqri4paCjAgw1TUc
+
+
+Open Postman → New → HTTP Request
+Set:
+Method: POST
+URL: http://127.0.0.1:8000/api/auth/register/
+Under Headers, add:
+
+Method: POST
+URL: http://127.0.0.1:8000/api/auth/login/
+Headers:
+
+Method: GET
+URL: http://127.0.0.1:8000/api/auth/me/
+Headers:
+
+Method: PUT
+URL: http://127.0.0.1:8000/api/auth/password/
+Headers:
+
+Method: PUT
+URL: http://127.0.0.1:8000/api/auth/email/
+Headers:
+
+Method: POST
+URL: http://127.0.0.1:8000/api/auth/refresh/
+Headers:

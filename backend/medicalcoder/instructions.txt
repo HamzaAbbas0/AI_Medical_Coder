@@ -1,0 +1,49 @@
+Step1: Sanity-check HIPAA pipeline alone (optional)
+python -c "from hippa_pipeline import hipaa_main; print(hipaa_main('document_name.pdf')[:500])"
+
+Step2: Run the full pipeline (parent → children → final)
+From backend/medicalcoder/:
+Option A — pass the file path on the command line (recommended):
+python code_generation.py "document_name.pdf"
+
+Option B — run and paste a path when prompted:
+python code_generation.py
+# It will prompt: Enter path to the original medical document:
+# Paste: notes/psychiatry_sample.pdf  and press Enter
+
+
+USER--->
+| Step | Action             | Endpoint              | Expected Result     |
+| ---- | ------------------ | --------------------- | ------------------- |
+| 1    | Register new user  | `/api/auth/register/` | 201 Created         |
+| 2    | Login (JWT tokens) | `/api/auth/login/`    | access + refresh    |
+| 3    | Get current user   | `/api/auth/me/`       | user details        |
+| 4    | Change password    | `/api/auth/password/` | “Password updated.” |
+| 5    | Update email       | `/api/auth/email/`    | “Email updated.”    |
+| 6    | Refresh token      | `/api/auth/refresh/`  | new access token    |
+
+DOCUMENTS--->
+
+
+| Method      | Endpoint                        | Description              |
+| ----------- | ------------------------------  | ------------------------ |
+| `GET`       | `/api/medical-documents/`       | List user’s medical docs |
+| `POST`      | `/api/medical-documents/`       | Create new medical doc   |
+| `GET`       | `/api/medical-documents/<id>/`  | Get details              |
+| `PUT/PATCH` | `/api/medical-documents/<id>/`  | Update document codes    |
+| `DELETE`    | `/api/medical-documents/<id>/`  | Delete record            |
+| `POST`      | `/api/medical-documents/upload/`| Upload the document      | Main Document Upload API
+
+
+
+AI Pipeline + MedicalDocuments Creation
+| Step | Functionality                                | File              |
+| ---- | -------------------------------------------- | ----------------- |
+| 1    | Import & call `process_icd_codes(file_path)` | `views.py`        |
+| 2    | Parse LLM results safely                     | `views.py`        |
+| 3    | Auto-create `MedicalDocument` entry          | `views.py`        |
+| 4    | Return unified API response                  | `api_response.py` |
+
+Aaish Faisal Hameedi
+AI Engineer
+APD-2402

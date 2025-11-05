@@ -1,0 +1,11 @@
+F33: Major depressive disorder, recurrent
+    F33.0: Major depressive disorder, recurrent, mild
+    F33.1: Major depressive disorder, recurrent, moderate
+    F33.2: Major depressive disorder, recurrent severe without psychotic features
+    F33.3: Major depressive disorder, recurrent, severe with psychotic symptoms
+    F33.4: Major depressive disorder, recurrent, in remission
+        F33.40: …… unspecified
+        F33.41: Major depressive disorder, recurrent, in partial remission
+        F33.42: Major depressive disorder, recurrent, in full remission
+    F33.8: Other recurrent depressive disorders
+    F33.9: Major depressive disorder, recurrent, unspecified

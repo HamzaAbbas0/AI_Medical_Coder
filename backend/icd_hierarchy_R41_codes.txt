@@ -1,0 +1,19 @@
+R41: Other symptoms and signs involving cognitive functions and awareness
+    R41.0: Disorientation, unspecified
+    R41.1: Anterograde amnesia
+    R41.2: Retrograde amnesia
+    R41.3: Other amnesia
+    R41.4: Neurologic neglect syndrome
+    R41.8: Other symptoms and signs involving cognitive functions and awareness
+        R41.81: Age-related cognitive decline
+        R41.82: Altered mental status, unspecified
+        R41.83: Borderline intellectual functioning
+        R41.84: Other specified cognitive deficit
+            R41.840: Attention and concentration deficit
+            R41.841: Cognitive communication deficit
+            R41.842: Visuospatial deficit
+            R41.843: Psychomotor deficit
+            R41.844: Frontal lobe and executive function deficit
+        R41.85: Anosognosia
+        R41.89: Other symptoms and signs involving cognitive functions and awareness
+    R41.9: Unspecified symptoms and signs involving cognitive functions and awareness

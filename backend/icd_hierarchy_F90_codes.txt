@@ -1,0 +1,6 @@
+F90: Attention-deficit hyperactivity disorders
+    F90.0: Attention-deficit hyperactivity disorder, predominantly inattentive type
+    F90.1: Attention-deficit hyperactivity disorder, predominantly hyperactive type
+    F90.2: Attention-deficit hyperactivity disorder, combined type
+    F90.8: Attention-deficit hyperactivity disorder, other type
+    F90.9: Attention-deficit hyperactivity disorder, unspecified type

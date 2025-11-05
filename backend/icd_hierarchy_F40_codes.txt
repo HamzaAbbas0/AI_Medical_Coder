@@ -1,0 +1,32 @@
+F40: Phobic anxiety disorders
+    F40.0: Agoraphobia
+        F40.00: …… unspecified
+        F40.01: …… with panic disorder
+        F40.02: …… without panic disorder
+    F40.1: Social phobias
+        F40.10: Social phobia, unspecified
+        F40.11: Social phobia, generalized
+    F40.2: Specific (isolated) phobias
+        F40.21: Animal type phobia
+            F40.210: Arachnophobia
+            F40.218: Other animal type phobia
+        F40.22: Natural environment type phobia
+            F40.220: Fear of thunderstorms
+            F40.228: Other natural environment type phobia
+        F40.23: Blood, injection, injury type phobia
+            F40.230: Fear of blood
+            F40.231: Fear of injections and transfusions
+            F40.232: Fear of other medical care
+            F40.233: Fear of injury
+        F40.24: Situational type phobia
+            F40.240: Claustrophobia
+            F40.241: Acrophobia
+            F40.242: Fear of bridges
+            F40.243: Fear of flying
+            F40.248: Other situational type phobia
+        F40.29: Other specified phobia
+            F40.290: Androphobia
+            F40.291: Gynephobia
+            F40.298: Other specified phobia
+    F40.8: Other phobic anxiety disorders
+    F40.9: Phobic anxiety disorder, unspecified

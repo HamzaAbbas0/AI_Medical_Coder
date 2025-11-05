@@ -1,0 +1,18 @@
+F43: Reaction to severe stress, and adjustment disorders
+    F43.0: Acute stress reaction
+    F43.1: Post-traumatic stress disorder (PTSD)
+        F43.10: Post-traumatic stress disorder, unspecified
+        F43.11: Post-traumatic stress disorder, acute
+        F43.12: Post-traumatic stress disorder, chronic
+    F43.2: Adjustment disorders
+        F43.20: Adjustment disorder, unspecified
+        F43.21: Adjustment disorder with depressed mood
+        F43.22: Adjustment disorder with anxiety
+        F43.23: Adjustment disorder with mixed anxiety and depressed mood
+        F43.24: Adjustment disorder with disturbance of conduct
+        F43.25: Adjustment disorder with mixed disturbance of emotions and conduct
+        F43.29: Adjustment disorder with other symptoms
+    F43.8: Other reactions to severe stress
+        F43.81: Prolonged grief disorder
+        F43.89: Other reactions to severe stress
+    F43.9: Reaction to severe stress, unspecified
