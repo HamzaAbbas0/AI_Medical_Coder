@@ -105,18 +105,6 @@ python manage.py runserver 0.0.0.0:8000
 
 
 
-## 🧑‍💻 Contributors
-| Role                       | Name / Resource         |
-| -------------------------- | ---------------         |
-| Project Lead / AI Engineer | Syed Anwar              |
-| AI Engineer                | Aaish Faisal Hameedi    |
-| Data Scientist             | Hamza Abbas             |
 
 
 
-
-By,
-Aaish Faisal Hameedi
-10/29/25
-AI Engineer
-APD-ID 2402
